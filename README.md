@@ -1,2 +1,2 @@
-# LAB_16
+# LetterCounter
 ## Algoritimo que conta vogais e consoantes
